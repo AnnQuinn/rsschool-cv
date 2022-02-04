@@ -7,3 +7,6 @@ Software developer can do almost anything, that's a cool job, that's why I wish 
 I just take the first step of the journey, still long way to go.
 ## 5: Education: 
       - Computer Science: CS50 - Havard
+## 6: Hobbies:
+      - Eating, sleeping, shopping
+      - Reading, coding, debugging
